@@ -70,19 +70,19 @@ Atualmente, estou focado no aprendizado contínuo e no desenvolvimento de projet
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Node" 
+    title="Mode"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg
 />
 <img 
     align="left" 
-    alt="Spring" 
-    title="Spring"
+    alt="Nest" 
+    title="nest"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg
 />
 <img 
     align="left" 
